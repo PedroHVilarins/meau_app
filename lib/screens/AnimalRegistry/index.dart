@@ -24,12 +24,12 @@ class MyCustomForm extends StatefulWidget {
   const MyCustomForm({super.key});
 
   @override
-  RegisterPeopleScreen createState() {
-    return RegisterPeopleScreen();
+  AnimalRegistry createState() {
+    return AnimalRegistry();
   }
 }
 
-class RegisterPeopleScreen extends State {
+class AnimalRegistry extends State {
   //Instancia Firestore
   FirebaseFirestore db = FirebaseFirestore.instance;
 
