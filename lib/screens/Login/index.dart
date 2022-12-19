@@ -83,7 +83,7 @@ class _LoginScreenState extends State<LoginScreen> {
             SizedBox(
               width: 312,
               child: TextField(
-                //obscureText: true,
+                obscureText: true,
                 style: const TextStyle(
                   color: Color.fromARGB(255, 189, 189, 189),
                   fontSize: 14,
