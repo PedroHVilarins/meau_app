@@ -1,6 +1,7 @@
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:meau_app/screens/Login/index.dart';
+
+import '../Login/index.dart';
 
 class IntroScreen extends StatelessWidget {
   const IntroScreen({super.key});

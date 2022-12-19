@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:meau_app/screens/AnimalRegistry/index.dart';
-import 'package:meau_app/screens/Login/index.dart';
-import 'package:meau_app/screens/MyAnimals/index.dart';
-import 'package:meau_app/screens/SideBarMenu/index.dart';
 
 import '../AllAnimals/index.dart';
+import '../AnimalRegistry/index.dart';
+import '../Login/index.dart';
+import '../MyAnimals/index.dart';
+import '../SideBarMenu/index.dart';
 
 //IntroductionScreen
 

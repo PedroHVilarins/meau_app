@@ -1,7 +1,8 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:meau_app/screens/AddAnimalPhoto/index.dart';
 import 'package:uuid/uuid.dart';
+
+import '../AddAnimalPhoto/index.dart';
 
 class AnimalRegistryScreen extends StatelessWidget {
   const AnimalRegistryScreen({super.key});

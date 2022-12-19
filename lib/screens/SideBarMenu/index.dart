@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:meau_app/screens/AnimalRegistry/index.dart';
 
+import '../AnimalRegistry/index.dart';
 import '../PreLogin/index.dart';
 
 class NavBar extends StatefulWidget {

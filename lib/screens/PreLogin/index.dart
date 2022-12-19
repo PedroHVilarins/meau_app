@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:meau_app/screens/Login/index.dart';
-import 'package:meau_app/screens/SignUp/index.dart';
+
+import '../Login/index.dart';
+import '../SignUp/index.dart';
 
 //PreLoginScreen
 
