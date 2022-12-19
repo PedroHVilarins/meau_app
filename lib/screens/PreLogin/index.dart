@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:meau_app/screens/Login/index.dart';
+import 'package:meau_app/screens/SignUp/index.dart';
 
 class PreLoginScreen extends StatefulWidget {
   const PreLoginScreen({super.key});
@@ -75,9 +77,11 @@ class _PreLoginScreenState extends State<PreLoginScreen> {
               child: Material(
                 color: Colors.transparent,
                 child: InkWell(
-                  onTap: () {
-                    print("tapped");
-                  },
+                  onTap: () => Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (context) => const SignUpScreen()),
+                  ),
                   child: const SizedBox(
                     width: 232.0,
                     height: 40.0,
@@ -129,9 +133,11 @@ class _PreLoginScreenState extends State<PreLoginScreen> {
               child: Material(
                 color: Colors.transparent,
                 child: InkWell(
-                  onTap: () {
-                    print("tapped");
-                  },
+                  onTap: () => Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (context) => const LoginScreen()),
+                  ),
                   child: const SizedBox(
                     width: 232.0,
                     height: 40.0,

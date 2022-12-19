@@ -10,14 +10,11 @@ class AnimalRegistryScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     const appTitle = 'Cadastro do Animal';
 
-    return MaterialApp(
-      title: appTitle,
-      home: Scaffold(
-        appBar: AppBar(
-          title: const Text(appTitle),
-        ),
-        body: const MyCustomForm(),
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text(appTitle),
       ),
+      body: const MyCustomForm(),
     );
   }
 }
