@@ -30,7 +30,7 @@ $ flutter pub get
 $ flutter run
 ```
 ## Contributors:
--[Pedro_Vilarins](https://www.linkedin.com/in/pedro-henrique-da-costa-vilarins-a3877a26b/)
--[MJSIL](https://www.linkedin.com/in/maur%C3%ADlio-j-silveira-4bb52b16a)
+- [Pedro_Vilarins](https://www.linkedin.com/in/pedro-henrique-da-costa-vilarins-a3877a26b/)\n
+- [MJSIL](https://www.linkedin.com/in/maur%C3%ADlio-j-silveira-4bb52b16a)
 
 
