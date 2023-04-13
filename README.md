@@ -2,13 +2,6 @@
    APP - Meau
 </h3>
 
-<p align="center">
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-technologies">technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-clone-this-repository">Clone this repository</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#-contributors">Contributors</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
 <img alt="Layout" src="https://user-images.githubusercontent.com/42494117/206493844-fe66b728-a12c-4e7f-939e-89dba40e961f.png">
 
 ## 👨🏻‍💻 Project
@@ -36,6 +29,7 @@ $ cd meau_app
 $ flutter pub get
 $ flutter run
 ```
-###Contributors
+## Programmers who contributed to this project:
+
 
 
