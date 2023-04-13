@@ -29,7 +29,7 @@ $ cd meau_app
 $ flutter pub get
 $ flutter run
 ```
-## Programmers who contributed to this project:
-
+## Contributors:
+-PedroHVilarins
 
 
