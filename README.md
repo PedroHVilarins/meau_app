@@ -8,7 +8,7 @@
 
 Our app aims to facilitate the adoption and donation of domestic animals, specifically dogs and cats. Its main function is to connect animal protectors with potential adopters, sponsors, and helpers.
 
-## 🚀 technologies
+## 🚀 Technologies
 
 This application was developed using the following technologies:
 
