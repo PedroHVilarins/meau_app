@@ -32,5 +32,6 @@ $ flutter run
 ## Contributors:
 - [Pedro_Vilarins](https://www.linkedin.com/in/pedro-henrique-da-costa-vilarins-a3877a26b/)
 - [MJSIL](https://www.linkedin.com/in/maur%C3%ADlio-j-silveira-4bb52b16a)
+- [Thiago_Castro](https://github.com/thiagocastro1721)
 
 
